@@ -1,5 +1,5 @@
 name: puluminewstart
-description: A minimal AWS Pulumi YAML program
+description: A minimal AWS Pulumi YAML program1
 runtime: yaml
 resources:
     # Create an AWS resource (S3 Bucket)
